@@ -146,6 +146,7 @@ h3 {
   color: #fff;
   font-family: 'Montserrat';
   font-size: 3.5rem;
+  line-height: 1.5;
   margin-top: 1.5rem;
 }
 
@@ -155,7 +156,7 @@ h3 {
 }
 
 .footer-icons {
-  padding: 0 10px;
+  margin: 20px 10px;
 }
 
 .footer-text {
